@@ -1,0 +1,53 @@
+
+body {
+	background-color: aliceblue ;
+color: rgb(30, 30, 30);     /* dark grey */
+font-family: Courrier;
+
+.perfect-circle  #profile
+  width: 100px;
+	height: 100px;
+	border-radius: 50%;
+
+}
+
+a {
+  color: darkblue;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: darkblue;
+  text-decoration: none;
+}
+
+h1 {
+  color: royalblue;
+  font-family: cursive;
+}
+
+ .container{
+
+	width: 700px;
+	margin: 10px auto;
+	padding: 50px;
+	text-align: justify;
+	box-shadow: 0px 10px 30px rgba(0,0,0,0,0,3);
+	border-radius: 4px;
+}
+
+.card-white {
+	background-color: aliceblue;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0,0,0,.1);
+	border-radius: 4px;
+	margin: 20px;
+	text-align: center;
+
+
+}
+
+
+
+
+
